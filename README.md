@@ -10,6 +10,9 @@
 - 📊 Interested in Machine Learning, Data Science & Automation
 - 🏎️ Dream: Become an F1 Team Engineer
 
+- ## 🌐 Portfolio Preview
+![Portfolio](./portfolio.png)
+
 - ## ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
